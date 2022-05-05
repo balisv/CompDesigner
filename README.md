@@ -1,1 +1,1 @@
-# CompDesigner
+# ProductManager
